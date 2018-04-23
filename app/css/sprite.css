@@ -1,0 +1,40 @@
+.icon {
+  background-image: url(../img/sprite.png);
+  display: inline-block;
+}
+
+.icon-hr {
+  background-position: 0px -58px;
+  width: 50px;
+  height: 21px;
+}
+.icon-logo-hover {
+  background-position: 0px 0px;
+  width: 124px;
+  height: 29px;
+}
+.icon-logo {
+  background-position: 0px -29px;
+  width: 124px;
+  height: 29px;
+}
+.icon-social-facebook {
+  background-position: -31px -79px;
+  width: 30px;
+  height: 31px;
+}
+.icon-social-google {
+  background-position: -61px -79px;
+  width: 30px;
+  height: 30px;
+}
+.icon-social-linkedin {
+  background-position: 0px -79px;
+  width: 31px;
+  height: 31px;
+}
+.icon-social-twitter {
+  background-position: -91px -79px;
+  width: 30px;
+  height: 30px;
+}
